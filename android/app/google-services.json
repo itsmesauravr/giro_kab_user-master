@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "472210151276",
+    "firebase_url": "https://giro-kab-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "giro-kab",
+    "storage_bucket": "giro-kab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472210151276:android:c879b378d1ab5a97064549",
+        "android_client_info": {
+          "package_name": "com.example.giro_kab_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472210151276-dtm3tcsb1ek07qu0pt8bkk76h9ud72ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMk_EK7bDG7PtlmJ2m-fS4-76c3PPoZKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472210151276-dtm3tcsb1ek07qu0pt8bkk76h9ud72ab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "472210151276-0pql9auiqbsqu5rd974m2m7179duq5qo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.girokab.driverapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472210151276:android:ffc3e08d800e55d6064549",
+        "android_client_info": {
+          "package_name": "com.girokab.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472210151276-dtm3tcsb1ek07qu0pt8bkk76h9ud72ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMk_EK7bDG7PtlmJ2m-fS4-76c3PPoZKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472210151276-dtm3tcsb1ek07qu0pt8bkk76h9ud72ab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "472210151276-0pql9auiqbsqu5rd974m2m7179duq5qo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.girokab.driverapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472210151276:android:42ca415b9d541def064549",
+        "android_client_info": {
+          "package_name": "com.girokab.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472210151276-dtm3tcsb1ek07qu0pt8bkk76h9ud72ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMk_EK7bDG7PtlmJ2m-fS4-76c3PPoZKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472210151276-dtm3tcsb1ek07qu0pt8bkk76h9ud72ab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "472210151276-0pql9auiqbsqu5rd974m2m7179duq5qo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.girokab.driverapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
